@@ -1,2 +1,2 @@
 # Outlier-detection-and-Scatter-correction-in-Near-Infrared-spectroscopy
-It is now possible to use machine learning techniques to achieve the results with the Near Infrared (NIR) sensor data due to recent advancements of AI 
+It is now possible to use machine learning techniques to achieve the results with the Near Infrared **(NIR)** sensor data due to recent advancements of AI. The scan results are mostly scattered and, contain outliers due to change in the light, working distance and human errors during the scanning. To reduce the scattering and to eliminate the outliers, Multiplicative Scatter Correction **(MSC)** and Standard Normal Variate **(SNV)** have been implemented on near-infrared (NIR) data.
